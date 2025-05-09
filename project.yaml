@@ -1,8 +1,8 @@
 basic:
-    name: compare.jade.finance
+    name: compare.jadeboatloans.com.au
     environments:
-        production: 'https://compare.jade.finance/'
-        staging: 'https://staging.compare.jade.finance/'
+        production: 'https://compare.jadeboatloans.com.au/'
+        staging: 'https://staging.compare.jadeboatloans.com.au/'
         development: ''
     breakpoints:
         - 640
